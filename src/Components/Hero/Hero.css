@@ -101,7 +101,7 @@
 
 .kid-right {
   position: absolute;
-  bottom: 10;
+  bottom: -300px;
   /* top: -10; */
   /* left: 0; */
   right: 0;
