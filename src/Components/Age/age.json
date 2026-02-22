@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1,
+        "range": "1-2",
+        "color": "yellow"
+    },
+    {
+        "id": 2,
+        "range": "2-3",
+        "color": "yellow"
+    },
+    {
+        "id": 3,
+        "range": "3-4",
+        "color": "yellow"
+    },
+    {
+        "id": 4,
+        "range": "4-5",
+        "color": "orange"
+    },
+    {
+        "id": 5,
+        "range": "5-6",
+        "color": "orange"
+    },
+    {
+        "id": 6,
+        "range": "6-7",
+        "color": "orange"
+    },
+    {
+        "id": 7,
+        "range": "7-8",
+        "color": "pink"
+    },
+    {
+        "id": 8,
+        "range": "8-9",
+        "color": "pink"
+    },
+    {
+        "id": 9,
+        "range": "9-10",
+        "color": "pink"
+    },
+    {
+        "id": 10,
+        "range": "10-11",
+        "color": "pink"
+    },
+    {
+        "id": 11,
+        "range": "11-12",
+        "color": "pink"
+    },
+    {
+        "id": 12,
+        "range": "12-13",
+        "color": "green"
+    },
+    {
+        "id": 13,
+        "range": "13-14",
+        "color": "green"
+    },
+    {
+        "id": 14,
+        "range": "14-15",
+        "color": "green"
+    },
+    {
+        "id": 15,
+        "range": "15-16",
+        "color": "green"
+    },
+    {
+        "id": 16,
+        "range": "16-17",
+        "color": "#08B3EC"
+    },
+    {
+        "id": 17,
+        "range": "17-18",
+        "color": "#08B3EC"
+    },
+    {
+        "id": 18,
+        "range": "18-19",
+        "color": "#08B3EC"
+    },
+    {
+        "id": 19,
+        "range": "19-20",
+        "color": "#08B3EC"
+    }
+]

@@ -1,0 +1,13 @@
+.course-card {
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  transition: 0.3s ease;
+}
+
+.course-card:hover {
+  transform: translateY(-5px);
+  border: 2px solid blue;
+}
+
+.tags span {
+  padding: 4px 10px;
+}

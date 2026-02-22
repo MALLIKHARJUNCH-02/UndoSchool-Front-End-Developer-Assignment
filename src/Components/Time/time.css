@@ -1,0 +1,40 @@
+.time-class {
+    transition: all 0.3s ease;
+    border: 2px solid rgb(213, 213, 215);
+}
+
+.timeIcons {
+    transition: top 0.4s ease;
+}
+
+.morning-class:hover {
+    transform: translateY(-5px);
+    background-color: rgb(184, 184, 246);
+    box-shadow: 14px 4px 14px rgb(179, 201, 231);
+    border: 3px solid rgb(0, 85, 255);
+}
+
+.afternoon-class:hover {
+    transform: translateY(-5px);
+    background-color: rgb(217, 193, 114);
+    box-shadow: 14px 4px 14px rgb(195, 196, 111);
+    border: 3px solid yellow;
+}
+
+.evening-class:hover {
+    transform: translateY(-5px);
+    background-color: rgb(208, 164, 112);
+    box-shadow: 14px 4px 14px rgb(194, 164, 112);
+    border: 3px solid rgb(255, 153, 0);
+}
+
+.Lateevening-class:hover {
+    transform: translateY(-5px);
+    background-color: rgb(191, 162, 211);
+    box-shadow: 14px 4px 14px rgb(158, 126, 171);
+    border: 3px solid rgb(162, 0, 255);
+}
+
+.time-class:hover .timeIcons {
+    top: 40px;
+}

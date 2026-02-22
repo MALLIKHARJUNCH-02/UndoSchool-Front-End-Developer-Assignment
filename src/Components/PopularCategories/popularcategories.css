@@ -1,0 +1,38 @@
+.PopularCategories-card {
+    transition: all 0.3s ease;
+}
+
+.PopularCategories-image {
+    transform: rotate(-10deg);
+}
+
+.speaking-card:hover {
+    background-color: #08be1a;
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.coding-card:hover {
+    background-color: #d76e04;
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.chess-card:hover {
+    background-color: #d9d320;
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.book-card:hover {
+    background-color: #176abe;
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+
+.appbulding-card:hover {
+    background-color: #d4500e;
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}

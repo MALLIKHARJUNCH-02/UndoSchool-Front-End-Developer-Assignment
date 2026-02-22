@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Andy Brew",
+    "qualification": "M.Sc, B.Ed",
+    "experience": "15+ Years",
+    "students": "1000+ Students",
+    "subject": "Computer science",
+    "image": "/AndyBrew.png"
+  },
+  {
+    "id": 2,
+    "name": "Sophia Turner",
+    "qualification": "M.A English",
+    "experience": "12+ Years",
+    "students": "850+ Students",
+    "subject": "English",
+    "image": "/AndyBrew.png"
+  },
+  {
+    "id": 3,
+    "name": "Olivia Brown",
+    "qualification": "M.Ed",
+    "experience": "10+ Years",
+    "students": "600+ Students",
+    "subject": "Early educator",
+    "image": "/AndyBrew.png"
+  },
+  {
+    "id": 4,
+    "name": "Daniel James",
+    "qualification": "B.Tech, M.Tech",
+    "experience": "8+ Years",
+    "students": "500+ Students",
+    "subject": "Coding",
+    "image": "/AndyBrew.png"
+  },
+  {
+    "id": 5,
+    "name": "Michael Clark",
+    "qualification": "M.Sc Computer Science",
+    "experience": "14+ Years",
+    "students": "1200+ Students",
+    "subject": "Computer science",
+    "image": "/AndyBrew.png"
+  },
+  {
+    "id": 6,
+    "name": "Emma Wilson",
+    "qualification": "MCA",
+    "experience": "9+ Years",
+    "students": "700+ Students",
+    "subject": "Computer science",
+    "image": "/AndyBrew.png"
+  }
+]
