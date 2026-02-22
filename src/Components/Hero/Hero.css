@@ -34,10 +34,11 @@
 .search-box button {
   background: linear-gradient(45deg, #7b2ff7, #f107a3);
   border: none;
-  padding: 12px 30px;
+  padding: 12px 10px;
   border-radius: 50px;
   color: white;
   font-weight: 600;
+  margin: auto;
 }
 
 .button:hover{
@@ -101,6 +102,8 @@
 .kid-right {
   position: absolute;
   bottom: 10;
+  /* top: -10; */
+  /* left: 0; */
   right: 0;
   height: 300px;
 }

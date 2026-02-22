@@ -4,7 +4,7 @@ import "./Hero.css";
 export default function Hero() {
   return (
     <section className="hero-section flex items-center overflow-hidden relative text-white">
-      <div className="container position-relative text-center">
+      <div className="container relative text-center">
 
 
         <div className="badge-circle badge-left">
@@ -45,11 +45,13 @@ export default function Hero() {
         />
 
 
-        <img
-          src="/right-kid.png"
-          alt="Kid"
-          className="kid-right"
-        />
+        <div className="kid-right">
+          <img
+            src="/right-kid.png"
+            alt="Kid"
+          />
+        </div>
+
 
       </div>
     </section>
