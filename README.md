@@ -5,7 +5,7 @@ Course Browse Page – React + TailwindCSS Implementation
 
 ## 👤 Submitted By
 **Name:** Chilukuri Mallikharjun Reddy  
-**Role Applied:** Front-End Developer  
+**Role:** Front-End Developer  
 **Date:** 23 February 2026  
 **Portfolio:** [mallikharjun-reddy-portfolio](https://mallikharjun-reddy-portfolio.vercel.app/)
 ---
