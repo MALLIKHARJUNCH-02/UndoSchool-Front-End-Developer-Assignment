@@ -22,7 +22,6 @@ function App() {
       <Header/>
       <Hero/>
       <Age/>
-      {/* <Card/> */}
       <NewLaunches/>
       <FeaturedCourses/>
       <TopTeachers/>

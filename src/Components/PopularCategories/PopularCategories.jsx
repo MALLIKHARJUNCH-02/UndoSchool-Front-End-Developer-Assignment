@@ -3,12 +3,12 @@ import "./popularcategories.css"
 import CardGroup from "../Cards/CardGroup";
 export default function PopularCategories() {
     return (
-        <section>
+        <section className="mt-12">
             <div className="flex flex-col justify-center items-center">
 
                 <div className="flex flex-col justify-center items-center">
-                    <h1>Popular Categories</h1>
-                    <p className="text-center p-3">Pick what you love most! These categories have everything you need to learn something awesome ✨</p>
+                    <h1 className="font-normal text-5xl text-center">Popular Categories</h1>
+                    <p className="text-center p-3 text-base">Pick what you love most! These categories have everything you need to learn something awesome ✨</p>
                 </div>
 
                 <div className="flex mt-5 justify-center items-center flex-wrap gap-8">
@@ -39,10 +39,10 @@ export default function PopularCategories() {
                         <p className="PopularCategories-text text-base font-medium m-0">App building</p>
                     </div>
                 </div>
-        
-                
-                    <CardGroup />
-                
+
+
+                <CardGroup />
+
 
             </div>
         </section>

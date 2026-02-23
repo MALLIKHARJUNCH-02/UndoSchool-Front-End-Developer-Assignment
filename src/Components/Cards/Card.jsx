@@ -7,7 +7,7 @@ export default function Card({ course }) {
         <section className="flex justify-center items-center p-2 flex-wrap">
 
             <div>
-                
+
             </div>
             <div className="course-card bg-white rounded-xl p-3 w-80">
 
@@ -21,7 +21,7 @@ export default function Card({ course }) {
 
 
                     <div className="rating mb-2 text-gray-500 font-semibold text-xs">
-                        ⭐ {course.rating} | {course.learners} learners 
+                        ⭐ {course.rating} | {course.learners} learners
                     </div>
                 </div>
 
@@ -39,7 +39,7 @@ export default function Card({ course }) {
                 </div>
 
 
-                <h5 className="title font-semibold text-sm mb-2">
+                <h5 className="title font-semibold text-sm font-medium mb-2 ">
                     {course.title}
                 </h5>
 

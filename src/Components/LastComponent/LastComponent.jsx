@@ -43,7 +43,7 @@ export default function LastComponent() {
               {course.title}
             </h5>
 
-            
+
             {course.by && (
               <div className="flex items-center gap-2 mb-3">
                 <img
@@ -55,7 +55,7 @@ export default function LastComponent() {
               </div>
             )}
 
-           
+
             <div className="flex justify-between items-center text-sm text-gray-600 mt-auto">
               <div className="flex items-center gap-1">
                 <FaUser /> {course.age}

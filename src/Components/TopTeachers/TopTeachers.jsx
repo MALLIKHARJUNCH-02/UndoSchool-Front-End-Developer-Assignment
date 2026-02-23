@@ -4,17 +4,17 @@ import topTeachers from "./TopTeachers.json"
 import "./topteachers.css";
 export default function TopTeachers() {
     return (
-        <section>
+        <section className="mt-12">
             <div className="m-5 flex flex-col justify-center items-center">
 
-                <h1 className="text-center">Learn from Top Teachers</h1>
-                <p className="text-center">Expert instructors who make learning fun and engaging for every child</p>
+                <h1 className="text-center font-normal text-5xl">Learn from Top Teachers</h1>
+                <p className="text-center text-base">Expert instructors who make learning fun and engaging for every child</p>
                 <div className="flex mt-5 flex-wrap gap-2 justify-center items-center">
                     {topTeachers.map((teacher) => (
                         <div className=" flex justify-center items-center teacher-card bg-white text-center rounded-3xl relative my-8 pt-15 relative w-55">
 
                             <div className="teacher-img-wrapper absolute w-24 h-24 -top-[45px] left-1/2 rounded-full bg-white p-1">
-                                <img src={teacher.image} alt="Andy Brew" className="w-100 h-100 rounded-full object-cover"/>
+                                <img src={teacher.image} alt="Andy Brew" className="w-24 h-24 rounded-full object-cover" />
                             </div>
 
 
