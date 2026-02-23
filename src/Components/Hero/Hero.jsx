@@ -30,7 +30,7 @@ export default function Hero() {
           <span>Everyday, Anytime, and Anywhere.</span>
         </h2>
 
-        <div className="search-box mx-auto">
+        <div className="flex search-box mx-auto">
           <input
             type="text"
             placeholder="What do you want to learn today?"

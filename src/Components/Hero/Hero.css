@@ -122,3 +122,9 @@
     display: none;
   }
 }
+
+@media (max-width: 330px){
+  .search-box{
+    flex-direction: column;
+  }
+}

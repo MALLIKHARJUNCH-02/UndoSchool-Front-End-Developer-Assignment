@@ -9,30 +9,35 @@
 .speaking-card:hover {
     background-color: #08be1a;
     transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    box-shadow: 4px 4px 10px rgba(90, 176, 104, 1);
+    border: 2px solid #05a418;
 }
 
 .coding-card:hover {
-    background-color: #d76e04;
+    background-color: #FF7824;
     transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    box-shadow: 4px 4px 10px rgba(209, 146, 37, 1);
+    border: 2px solid #cd7f3a;
 }
 
 .chess-card:hover {
     background-color: #d9d320;
     transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    box-shadow: 4px 4px 10px rgb(188, 158, 51, 1);
+    border: 2px solid #cba405;
 }
 
 .book-card:hover {
     background-color: #176abe;
     transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    box-shadow: 4px 4px 10px rgba(90, 102, 183, 1);
+    border: 2px solid #170fb0;
 }
 
 
 .appbulding-card:hover {
     background-color: #d4500e;
     transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    box-shadow: 4px 4px 10px rgba(199, 106, 39, 1);
+    border: 2px solid #dc3902;
 }

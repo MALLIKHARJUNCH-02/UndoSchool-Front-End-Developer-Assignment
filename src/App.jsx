@@ -13,6 +13,7 @@ import Webinar from './Components/Webinar/Webinar'
 import PopularCategories from './Components/PopularCategories/PopularCategories'
 import Time from './Components/Time/Time'
 import LastComponent from './Components/LastComponent/LastComponent'
+import Footer from './Components/Footer/Footer'
 function App() {
   const [count, setCount] = useState(0)
 
@@ -29,6 +30,7 @@ function App() {
       <PopularCategories/>
       <Time/>
       <LastComponent/>
+      <Footer/>
     </>
   )
 }
