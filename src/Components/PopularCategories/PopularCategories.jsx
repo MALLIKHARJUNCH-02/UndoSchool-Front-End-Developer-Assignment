@@ -15,7 +15,7 @@ export default function PopularCategories() {
 
 
                     <div className="flex items-end cursor-pointer  PopularCategories-card p-6 coding-card w-60 h-51 rounded-xl relative">
-                        <img src="/coding.png" alt="Coding" className="PopularCategories-image absolute -top-[20px] right-[20px] w-75" />
+                        <img src="/coding.png" alt="Coding" className="PopularCategories-image absolute -top-[20px] right-[20px] w-50" />
                         <p className="PopularCategories-text text-base font-medium m-0">Coding</p>
                     </div>
 
