@@ -7,14 +7,16 @@ Course Browse Page – React + TailwindCSS Implementation
 **Name:** Chilukuri Mallikharjun Reddy  
 **Role Applied:** Front-End Developer  
 **Date:** 23 February 2026  
-**Portfolio:** [https://mallikharjun-reddy-portfolio.vercel.app/]https://mallikharjun-reddy-portfolio.vercel.app/
+**Portfolio:** [mallikharjun-reddy-portfolio](https://mallikharjun-reddy-portfolio.vercel.app/)
 ---
 
 ## 🔗 Live Demo
 
-- 🌐 Hosted Page: [https://undo-school-front-end-developer-ass.vercel.app/]https://undo-school-front-end-developer-ass.vercel.app/
-- 🎥 Video Walkthrough: [Add Your Video Link Here]
-- 📂 GitHub Repository: [https://github.com/MALLIKHARJUNCH-02/UndoSchool-Front-End-Developer-Assignment.git](https://github.com/MALLIKHARJUNCH-02/UndoSchool-Front-End-Developer-Assignment.git)
+- 🌐 Hosted Page: [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://undo-school-front-end-developer-ass.vercel.app/)
+
+
+- 🎥 Video Walkthrough: [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge)](https://drive.google.com/file/d/1hs2EwKEr9_kLcz9sHHvlVt9wHqX1Y6fK/view?usp=sharing)
+- 📂 GitHub Repository: [![Video Demo](https://img.shields.io/badge/Video-Walkthrough-red?style=for-the-badge)](https://github.com/MALLIKHARJUNCH-02/UndoSchool-Front-End-Developer-Assignment.git)
 
 ---
 
@@ -45,7 +47,7 @@ The goal was to maintain:
 
 ## 📂 Project Structure
 
-
+```bash
 UndoSchool/
 │
 ├── node_modules/
@@ -124,3 +126,5 @@ UndoSchool/
 ├── index.html
 ├── package-lock.json
 └── package.json
+
+```
