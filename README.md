@@ -1,16 +1,126 @@
-# React + Vite
+# UndoSchool Front-End Developer Assignment  
+Course Browse Page – React + TailwindCSS Implementation  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 👤 Submitted By
+**Name:** Chilukuri Mallikharjun Reddy  
+**Role Applied:** Front-End Developer  
+**Date:** 23 February 2026  
+**Portfolio:** [https://mallikharjun-reddy-portfolio.vercel.app/]https://mallikharjun-reddy-portfolio.vercel.app/
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
 
-## React Compiler
+- 🌐 Hosted Page: [https://undo-school-front-end-developer-ass.vercel.app/]https://undo-school-front-end-developer-ass.vercel.app/
+- 🎥 Video Walkthrough: [Add Your Video Link Here]
+- 📂 GitHub Repository: [https://github.com/MALLIKHARJUNCH-02/UndoSchool-Front-End-Developer-Assignment.git](https://github.com/MALLIKHARJUNCH-02/UndoSchool-Front-End-Developer-Assignment.git)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📌 Objective
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The objective of this assignment was to replicate the **Course Browse Page** from the provided Figma prototype using:
+
+- React
+- TailwindCSS
+
+The goal was to maintain:
+- Accurate layout structure
+- Proper spacing and typography
+- Responsive behavior
+- Interactive elements
+- Clean and maintainable code structure
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React (Vite)
+- 🎨 TailwindCSS
+- 💡 JavaScript (ES6+)
+- 🧱 Component-Based Architecture
+
+---
+
+## 📂 Project Structure
+
+
+UndoSchool/
+│
+├── node_modules/
+│
+├── public/
+│   ├── AndyBrew.png
+│   ├── appbulding.png
+│   ├── book.png
+│   ├── cardimage.png
+│   ├── chess.png
+│   ├── coding.png
+│   ├── Daniel.png
+│   ├── left-kid.png
+│   ├── right-kid.png
+│   ├── speaking.png
+│   ├── styles.css
+│   └── vite.svg
+│
+├── src/
+│   ├── assets/
+│   │
+│   ├── Components/
+│   │   ├── Age/
+│   │   │   ├── Age.css
+│   │   │   ├── age.json
+│   │   │   └── Age.jsx
+│   │   │
+│   │   ├── Cards/
+│   │   │   ├── card.css
+│   │   │   ├── Card.jsx
+│   │   │   └── CardGroup.jsx
+│   │   │
+│   │   ├── FeaturedCourses/
+│   │   │   └── FeaturedCourses.jsx
+│   │   │
+│   │   ├── Footer/
+│   │   │   └── Footer.jsx
+│   │   │
+│   │   ├── Header/
+│   │   │   └── Header.jsx
+│   │   │
+│   │   ├── Hero/
+│   │   │   ├── Hero.css
+│   │   │   └── Hero.jsx
+│   │   │
+│   │   ├── LastComponent/
+│   │   │   └── LastComponent.jsx
+│   │   │
+│   │   ├── NewLaunches/
+│   │   │   ├── Courses.json
+│   │   │   └── NewLaunches.jsx
+│   │   │
+│   │   ├── PopularCategories/
+│   │   │   ├── popularcategories.css
+│   │   │   └── PopularCategories.jsx
+│   │   │
+│   │   ├── Time/
+│   │   │   ├── time.css
+│   │   │   └── Time.jsx
+│   │   │
+│   │   ├── TopTeachers/
+│   │   │   ├── topteachers.css
+│   │   │   ├── TopTeachers.json
+│   │   │   └── TopTeachers.jsx
+│   │   │
+│   │   └── Webinar/
+│   │       └── Webinar.jsx
+│   │
+│   ├── App.css
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+│
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+└── package.json
