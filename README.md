@@ -15,8 +15,9 @@ Course Browse Page – React + TailwindCSS Implementation
 - 🌐 Hosted Page: [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://undo-school-front-end-developer-ass.vercel.app/)
 
 
-- 🎥 Video Walkthrough: [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge)](https://drive.google.com/file/d/1hs2EwKEr9_kLcz9sHHvlVt9wHqX1Y6fK/view?usp=sharing)
-- 📂 GitHub Repository: [![Video Demo](https://img.shields.io/badge/Video-Walkthrough-red?style=for-the-badge)](https://github.com/MALLIKHARJUNCH-02/UndoSchool-Front-End-Developer-Assignment.git)
+- 🎥 Video Walkthrough: [![GitHub Repo](https://img.shields.io/badge/Video-Walkthrough-black?style=for-the-badge)](https://drive.google.com/file/d/1hs2EwKEr9_kLcz9sHHvlVt9wHqX1Y6fK/view?usp=sharing)
+
+- 📂 GitHub Repository: [![Video Demo](https://img.shields.io/badge/GitHub-Repository-red?style=for-the-badge)](https://github.com/MALLIKHARJUNCH-02/UndoSchool-Front-End-Developer-Assignment.git)
 
 ---
 
