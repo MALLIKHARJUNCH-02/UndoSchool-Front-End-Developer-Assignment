@@ -11,22 +11,22 @@ export default function Time() {
                 </div>
 
                 <div className="flex justify-center items-center gap-5 flex-wrap">
-                    <div className="p-4 time-class morning-class relative w-60 overflow-hidden rounded-xl">
+                    <div className="p-4 time-class morning-class relative w-60 overflow-hidden rounded-xl cursor-pointer">
                         <p>Morning classes</p>
                         <span>8am - 12pm</span>
                         <FaSun className="timeIcons absolute -top-[-50px] right-[0px] w-15 h-15" />
                     </div>
-                    <div className="p-4 time-class afternoon-class relative w-60 overflow-hidden rounded-xl">
+                    <div className="p-4 time-class afternoon-class relative w-60 overflow-hidden rounded-xl cursor-pointer">
                         <p>Afternoon classes</p>
                         <span>12pm - 4pm</span>
                         <FaCloudSun className="timeIcons absolute -top-[-50px] right-[0px] w-15 h-15" />
                     </div>
-                    <div className="p-4 time-class evening-class relative w-60 overflow-hidden rounded-xl">
+                    <div className="p-4 time-class evening-class relative w-60 overflow-hidden rounded-xl cursor-pointer">
                         <p>Evening classes</p>
                         <span>4pm - 8pm</span>
                         <FaMoon className="timeIcons absolute -top-[-50px] right-[0px] w-15 h-15" />
                     </div>
-                    <div className="p-4 time-class Lateevening-class relative w-60 overflow-hidden rounded-xl">
+                    <div className="p-4 time-class Lateevening-class relative w-60 overflow-hidden rounded-xl cursor-pointer">
                         <p>Late evening classes</p>
                         <span>8pm - 11pm</span>
                         <FaRegMoon className="timeIcons absolute -top-[-50px] right-[0px] w-15 h-15" />
